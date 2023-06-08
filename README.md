@@ -1,4 +1,6 @@
-### Hi there 👋
+<p>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6938F7&width=435&lines=Hi!+im+Alfredo+Tartaret" alt="Typing SVG" /></a>
+ </p>
 
 <!--
 **alfredo0344/alfredo0344** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
