@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a form confirmation page<br>🤝 I’m looking for help with NestJS<br>🌱 I’m currently learning NestJS
+Im a backend developer from Venezuela<br>🔭 I’m currently working on a form confirmation page<br>🤝 I’m looking for help with NestJS<br>🌱 I’m currently learning NestJS
 
 
 # 💻 Tech Stack:
